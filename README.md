@@ -1,5 +1,5 @@
 # Selamat datang di aplikasi Notes
 
-## Untuk menginstall library ketik npm install
+### Cara menjalankannya
+install dulu librarynya dengan menjalankan npm install lalu aktikfkan servernya dengan npm run start
 
-## Untuk menjalankannya ketik npm run dev
